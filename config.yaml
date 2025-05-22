@@ -1,4 +1,4 @@
 '@harperdb/nextjs':
   package: '@harperdb/nextjs'
   files: '/*'
-  prebuilt: true
+  prebuilt: false
